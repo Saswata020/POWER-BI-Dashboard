@@ -13,3 +13,5 @@ In this project I have worked on to analyze
 
 5.Where/how  do I spend?
 
+
+![image](https://user-images.githubusercontent.com/99251494/172093736-d6c89914-9f45-4c83-8719-bb87bc7abaaa.png)
