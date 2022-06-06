@@ -14,4 +14,4 @@ In this project I have worked on to analyze
 5.Where/how  do I spend?
 
 
-![image](https://user-images.githubusercontent.com/99251494/172093736-d6c89914-9f45-4c83-8719-bb87bc7abaaa.png)
+![image](https://user-images.githubusercontent.com/99251494/172108823-489f7e07-8ed5-417d-8c12-24be8028cb29.png)
